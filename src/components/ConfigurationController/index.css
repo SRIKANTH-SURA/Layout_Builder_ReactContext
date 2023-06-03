@@ -1,0 +1,30 @@
+.configuration-controller {
+  background-color: #475569;
+  padding: 20px 20px;
+}
+
+h1.layout-text {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #f1f5f9;
+  margin: 0;
+}
+
+ul.configuration-list {
+  margin: 0px;
+  padding: 10px 26px;
+}
+
+.configuration-item {
+  list-style-type: none;
+}
+
+.input-type {
+  margin-right: 10px;
+}
+
+.label-text {
+  font-size: 16px;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
